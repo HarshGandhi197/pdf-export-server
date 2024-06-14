@@ -3,7 +3,7 @@ const config = {
     "http"          : 8080,
 
     // HTTPS server port
-    "https"         : null,
+    "https"         : 3000,
 
     // CORS headers are always set, this config defined value for Access-Control-Allow-Origin header
     "cors"          : "*",
